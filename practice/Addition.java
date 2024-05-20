@@ -8,4 +8,3 @@ int second = 30;
         System.out.println(first+"+"+second+"="+sum);
     }
 }
-
