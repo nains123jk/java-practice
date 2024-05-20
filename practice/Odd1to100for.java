@@ -12,3 +12,4 @@ public class Odd1to100for {
         }
     }
 }
+
