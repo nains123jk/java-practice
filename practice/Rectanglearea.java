@@ -8,3 +8,4 @@ public class Rectanglearea {
         System.out.println("Area of Rectangle="+area);
     }
 }
+
