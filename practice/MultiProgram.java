@@ -5,13 +5,13 @@ public class MultiProgram {
         int a = 20;
         int b = 25;
         int div = getDiv(a);
-        System.out.println(getDiv(a));
+        System.out.println(div);
         int mul = getMul(a,b);
-        System.out.println(getMul(a,b));
+        System.out.println(mul);
         int add = getAdd(a,b);
-        System.out.println(getAdd(a,b));
+        System.out.println(add);
         int sub = getSub(a,b);
-        System.out.println(getSub(a,b));
+        System.out.println(sub);
 
     }
 
