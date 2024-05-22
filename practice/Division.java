@@ -9,6 +9,5 @@ public class Division {
     public static int getDiv(int num){
         return  num/2;
     }
-
 }
 
