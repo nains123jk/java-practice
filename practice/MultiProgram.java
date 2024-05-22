@@ -28,4 +28,5 @@ public class MultiProgram {
      public  static int getSub(int a, int b){
         return a - b;
      }
+
 }
