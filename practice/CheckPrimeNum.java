@@ -18,4 +18,3 @@ public class CheckPrimeNum {
      return true;
     }
 }
-
